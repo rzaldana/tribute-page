@@ -1,3 +1,10 @@
+@font-face {
+	src: url('fonts/AbrilFatface-Regular.ttf');
+	font-family: abril;
+}
+
+
+
 * {
 	margin: 0px;
 	padding: 0px;
@@ -11,17 +18,33 @@
 
 #title-div {
 	text-align: center;
+	padding: 10px;
+	font-family: abril, monospace;
+	font-weight: 10;
 }
 
 #image {
 	
 	max-width: 300px;
+	margin: 20px 0px 0px 0px;
 }
+
+#tribute-info {
+	padding: 20px 10%;
+	font-family: arial;
+	font-family: 'Alegreya', monospace;
+}
+
 
 #img-div {
 	text-align: center;
 }
 
+
 ul {
  	padding: 20px;
+}
+
+#intro {
+	text-align: center;
 }
