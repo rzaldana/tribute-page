@@ -1,0 +1,1 @@
+I'm just remaking the tribute page with more knowledge of CSS layout. This is a tribute page for Bjork.
