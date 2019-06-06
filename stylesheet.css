@@ -2,3 +2,26 @@
 	margin: 0px;
 	padding: 0px;
 }
+
+#main {
+	background-color: #efefef;
+	max-width: 800px;
+	margin: 0px auto;
+}
+
+#title-div {
+	text-align: center;
+}
+
+#image {
+	
+	max-width: 300px;
+}
+
+#img-div {
+	text-align: center;
+}
+
+ul {
+ 	padding: 20px;
+}
